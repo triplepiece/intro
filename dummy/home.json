@@ -1,140 +1,134 @@
 {
   "code": 0,
-  "result": [
-    {
-      "type": "header",
-      "datas": [
-        {
-          "type": "notice",
-          "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
-          "title": "수의사가 알려주는 강아지 행동 교정",
-          "thumb": ""
-        },
-        {
-          "type": "notice",
-          "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
-          "title": "고양이의 화장실 청소법",
-          "thumb": ""
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "datas": [
-        {
-          "type": "home_title",
-          "title": "펫탐 추천 병원",
-          "link": "ptt://hospital/hospital_recommand"
-        },
-        {
-          "type": "hospital_cell",
-          "link": "ptt://detail/hospital/2",
-          "title": "역삼동물병원",
-          "feature": [
-            "parking",
-            "24hour",
-            "cctv",
-            "emergency"
-          ],
-          "tags": [
-            "#강아지전문",
-            "#고양이전문",
-            "#노령견/묘"
-          ],
-          "distance": 134,
-          "rating": 4.9,
-          "save": 1234,
-          "review": 323
-        },
-        {
-          "type": "hospital_cell",
-          "link": "ptt://detail/hospital/2",
-          "title": "역삼동물병원",
-          "feature": [
-            "parking",
-            "24hour",
-            "cctv",
-            "emergency"
-          ],
-          "tags": [
-            "#강아지전문",
-            "#고양이전문",
-            "#노령견/묘"
-          ],
-          "distance": 234,
-          "rating": 4.9,
-          "save": 1234,
-          "review": 323
-        },
-        {
-          "type": "hospital_cell",
-          "link": "ptt://detail/hospital/2",
-          "title": "역삼동물병원",
-          "feature": [
-            "parking",
-            "24hour",
-            "cctv",
-            "emergency"
-          ],
-          "tags": [
-            "#강아지전문",
-            "#고양이전문",
-            "#노령견/묘"
-          ],
-          "distance": 134,
-          "rating": 4.9,
-          "save": 1234,
-          "review": 323
-        },
-        {
-          "type": "home_title",
-          "title": "요즘 뜨는 미용실",
-          "link": "ptt://hospital/hair_recommand"
-        },
-        {
-          "type": "hospital_cell",
-          "link": "ptt://detail/hospital/2",
-          "title": "샤워앤독",
-          "feature": [
-            "parking",
-            "24hour",
-            "cctv",
-            "emergency"
-          ],
-          "tags": [
-            "#강아지전문",
-            "#고양이전문",
-            "#노령견/묘"
-          ],
-          "rating": 4.9,
-          "save": 1234,
-          "review": 323
-        },
-        {
-          "type": "home_title",
-          "title": "24시지구촌메디컬센터",
-          "link": "ptt://hospital/recommand"
-        },
-        {
-          "type": "hospital_cell",
-          "link": "ptt://detail/hospital/2",
-          "title": "슈슈펫살롱원",
-          "feature": [
-            "parking",
-            "24hour",
-            "cctv",
-            "emergency"
-          ],
-          "tags": [
-            "#강아지전문",
-            "#고양이전문",
-            "#노령견/묘"
-          ],
-          "rating": 4.9,
-          "save": 1234,
-          "review": 323
-        }
-      ]
-    }
-  ]
+  "result": {
+    "header": [
+      {
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "수의사가 알려주는 강아지 행동 교정",
+        "thumb": ""
+      },
+      {
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "고양이의 화장실 청소법",
+        "thumb": ""
+      }
+    ],
+    "list": [
+      {
+        "type": "home_title",
+        "title": "펫탐 추천 병원",
+        "link": "ptt://hospital/hospital_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "distance": 134,
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "distance": 234,
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "distance": 134,
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "home_title",
+        "title": "요즘 뜨는 미용실",
+        "link": "ptt://hospital/hair_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "샤워앤독",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "home_title",
+        "title": "24시지구촌메디컬센터",
+        "link": "ptt://hospital/recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "슈슈펫살롱원",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      }
+    ]
+  }
 }
