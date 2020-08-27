@@ -1,5 +1,6 @@
 {
-  "documents": [
+  "code": 0,
+  "result": [
     {
       "type": "header",
       "datas": [
@@ -18,7 +19,7 @@
       ]
     },
     {
-      "type": "header",
+      "type": "list",
       "datas": [
         {
           "type": "home_title",
