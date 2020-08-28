@@ -36,7 +36,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
-        "distance": 134,
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
@@ -56,7 +59,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
-        "distance": 234,
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
@@ -76,7 +82,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
-        "distance": 134,
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
@@ -101,6 +110,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
@@ -120,6 +133,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
@@ -139,6 +156,10 @@
           "#고양이전문",
           "#노령견/묘"
         ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
         "rating": 4.9,
         "save": 1234,
         "review": 323
