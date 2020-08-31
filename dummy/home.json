@@ -261,7 +261,7 @@
         "link": "ptt://user/favorite"
       },
       {
-        "type": "home_user_Favorite_cell",
+        "type": "home_user_favorite_cell",
         "users": [
           {
             "userId": "sdfusdf",
