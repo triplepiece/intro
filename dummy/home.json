@@ -259,6 +259,59 @@
         "type": "home_title",
         "title": "인기있는 회원",
         "link": "ptt://user/favorite"
+      },
+      {
+        "type": "home_user_Favorite_cell",
+        "users": [
+          {
+            "userId": "sdfusdf",
+            "userName": "말랑이",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+            "likeCount": 1
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "후추",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_2.png",
+            "likeCount": 12
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "길동이",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_3.png",
+            "likeCount": 13
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "아아",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_4.png",
+            "likeCount": 23
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "라떼",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_5.png",
+            "likeCount": 0
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "소소",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_6.png",
+            "likeCount": 35
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "수수",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_7.png",
+            "likeCount": 123
+          },
+          {
+            "userId": "sdfusdf",
+            "userName": "바바",
+            "user_profile": "https://triplepiece.com/dummy/img/profile_8.png",
+            "likeCount": 656
+          }
+        ]
       }
     ]
   }
