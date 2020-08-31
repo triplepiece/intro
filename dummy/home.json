@@ -6,13 +6,13 @@
         "type": "notice",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "title": "수의사가 알려주는 강아지 행동 교정",
-        "thumb": ""
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
       },
       {
         "type": "notice",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "title": "고양이의 화장실 청소법",
-        "thumb": ""
+        "thumb": "https://triplepiece.com/dummy/img/2.png"
       }
     ],
     "list": [
@@ -25,6 +25,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -48,6 +49,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -71,6 +73,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -99,6 +102,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "샤워앤독",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -122,6 +126,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -145,6 +150,7 @@
         "type": "hospital_cell",
         "link": "ptt://detail/hospital/2",
         "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
         "feature": [
           "parking",
           "24hour",
@@ -173,22 +179,25 @@
         "type": "review_default_cell",
         "link": "ptt://review/hospital/2",
         "title": "수의사 선생님께서 설명도 꼼꼼히 해주시고 수술도 성공적이고 회복도 빨랐습니다. 입원했을 때",
-        "user":"hy380sdf",
-        "receipt_certified":true
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "hy380sdf",
+        "receipt_certified": true
       },
-            {
+      {
         "type": "review_default_cell",
         "link": "ptt://review/hospital/3",
         "title": "여러분 다들 우리 개좀 보세요~~~~ㅠㅠ 미용사님 최고ㅠㅠㅠㅠㅠㅠㅠㅠ",
-        "user":"hagyousdfh",
-        "receipt_certified":true
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "hagyousdfh",
+        "receipt_certified": true
       },
-            {
+      {
         "type": "review_default_cell",
         "link": "ptt://review/hospital/4",
         "title": "고양이 전문 수의사 선생님이 계셔서 믿음이 가요. 아이 상태에 대해 그림까지 그려가며 차근차근 설명…",
-        "user":"sdfl245",
-        "receipt_certified":true
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "sdfl245",
+        "receipt_certified": true
       },
       {
         "type": "home_title",
