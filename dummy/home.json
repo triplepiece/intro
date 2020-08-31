@@ -205,6 +205,57 @@
         "link": "ptt://community/all"
       },
       {
+        "type": "community_default_cell",
+        "link": "ptt://community/2",
+        "title": "석촌호수 산책 같이 가자",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
+        "users": [
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
+        ]
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/3",
+        "title": "강아지 인맥 구합니다.",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
+        "users": [
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
+        ]
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/4",
+        "title": "전문 브라더 양성 고육 34차",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
+        "users": [
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
+        ]
+      },
+      {
         "type": "home_title",
         "title": "인기있는 회원",
         "link": "ptt://user/favorite"
