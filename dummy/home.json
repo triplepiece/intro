@@ -268,62 +268,282 @@
         ]
       },
       {
-        "type": "home_title",
-        "title": "인기있는 회원",
-        "link": "ptt://user/favorite"
+        "type": "home_footer"
+      }
+    ]
+  }
+}
+{
+  "code": 0,
+  "result": {
+    "header": [
+      {
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "수의사가 알려주는 강아지 행동 교정",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
       },
       {
-        "type": "home_user_favorite_cell",
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "고양이의 화장실 청소법",
+        "thumb": "https://triplepiece.com/dummy/img/2.png"
+      },
+      {
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "고양이의 화장실 청소법",
+        "thumb": "https://triplepiece.com/dummy/img/2.png"
+      },
+      {
+        "type": "notice",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "title": "고양이의 화장실 청소법",
+        "thumb": "https://triplepiece.com/dummy/img/2.png"
+      }
+    ],
+    "list": [
+      {
+        "type": "home_title",
+        "title": "펫탐 추천 병원",
+        "link": "ptt://hospital/hospital_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "역삼동물병원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "home_title",
+        "title": "요즘 뜨는 미용실",
+        "link": "ptt://hospital/hair_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "샤워앤독",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "home_title",
+        "title": "가장 인기있는 후기",
+        "link": "ptt://review/recommend"
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/2",
+        "title": "수의사 선생님께서 설명도 꼼꼼히 해주시고 수술도 성공적이고 회복도 빨랐습니다. 입원했을 때",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "hy380sdf",
+        "receipt_certified": true
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/3",
+        "title": "여러분 다들 우리 개좀 보세요~~~~ㅠㅠ 미용사님 최고ㅠㅠㅠㅠㅠㅠㅠㅠ",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "hagyousdfh",
+        "receipt_certified": true
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/4",
+        "title": "고양이 전문 수의사 선생님이 계셔서 믿음이 가요. 아이 상태에 대해 그림까지 그려가며 차근차근 설명…",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "user": "sdfl245",
+        "receipt_certified": true
+      },
+      {
+        "type": "home_title",
+        "title": "커뮤니티",
+        "link": "ptt://community/all"
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/2",
+        "title": "석촌호수 산책 같이 가자",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
         "users": [
-          {
-            "userId": "sdfusdf",
-            "userName": "말랑이",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
-            "likeCount": 1
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "후추",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_2.png",
-            "likeCount": 12
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "길동이",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_3.png",
-            "likeCount": 13
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "아아",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_4.png",
-            "likeCount": 23
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "라떼",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_5.png",
-            "likeCount": 0
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "소소",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_6.png",
-            "likeCount": 35
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "수수",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_7.png",
-            "likeCount": 123
-          },
-          {
-            "userId": "sdfusdf",
-            "userName": "바바",
-            "user_profile": "https://triplepiece.com/dummy/img/profile_8.png",
-            "likeCount": 656
-          }
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
         ]
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/3",
+        "title": "강아지 인맥 구합니다.",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
+        "users": [
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
+        ]
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/4",
+        "title": "전문 브라더 양성 고육 34차",
+        "address": "송파구",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "dueDate": "209.12.01~2019.12.31",
+        "user_profile": "https://triplepiece.com/dummy/img/profile_1.png",
+        "community_member_count": 45,
+        "users": [
+          "https://triplepiece.com/dummy/img/profile_1.png",
+          "https://triplepiece.com/dummy/img/profile_2.png",
+          "https://triplepiece.com/dummy/img/profile_3.png",
+          "https://triplepiece.com/dummy/img/profile_4.png",
+          "https://triplepiece.com/dummy/img/profile_5.png"
+        ]
+      },
+      {
+        "type": "home_footer"
       }
     ]
   }
