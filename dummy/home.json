@@ -266,6 +266,9 @@
           "https://triplepiece.com/dummy/img/profile_4.png",
           "https://triplepiece.com/dummy/img/profile_5.png"
         ]
+      },
+      {
+        "type": "home_footer_cell"
       }
     ]
   }
