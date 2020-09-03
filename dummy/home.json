@@ -543,7 +543,7 @@
         ]
       },
       {
-        "type": "home_footer"
+        "type": "home_footer_cell"
       }
     ]
   }
