@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "result": {
+    "notice_version": 1,
+    "notice_msg": "새로운 메시지가 있습니다",
+    "notice_img": {
+      "url": "https://triplepiece.com/dummy/img/profile_1.png",
+      "width": 193,
+      "height": 199
+    }
+  }
+}
