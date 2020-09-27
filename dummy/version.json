@@ -8,7 +8,7 @@
       "ban_ver_number": 2
     },
     {
-      "type": "ios",
+      "type": "aos",
       "version_string": "0.1.1",
       "version_number": 6,
       "ban_ver_number": 3
