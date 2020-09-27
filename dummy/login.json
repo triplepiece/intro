@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "result": {
+    "token": "adfkasiasdfn",
+    "name": "nickname",
+    "email": "jangyoun2@nate.com",
+    "coin": 1234,
+    "location": {
+      "cert": true,
+      "address": "송파구"
+    }
+  }
+}
