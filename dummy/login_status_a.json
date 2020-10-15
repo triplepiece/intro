@@ -1,6 +1,7 @@
 {
   "code": 0,
   "result": {
+    "user_status": "A",
     "token": "adfkasiasdfn",
     "name": "nickname",
     "email": "jangyoun2@nate.com",
