@@ -1,0 +1,148 @@
+{
+  "code": 0,
+  "result": {
+    "phone": "01012341234",
+    "header": [
+      "https://triplepiece.com/dummy/img/1.png",
+      "https://triplepiece.com/dummy/img/2.png",
+      "https://triplepiece.com/dummy/img/3.png",
+      "https://triplepiece.com/dummy/img/4.png"
+    ],
+    "list": [
+      {
+        "type": "hospital_detail_header",
+        "title": "역삼동물병원",
+        "subtitle": "완전 좋아요! 전문병원이라 믿고 아이를 맡길 수 있었어요",
+        "flag": [
+          "cctv",
+          ""
+        ]
+      },
+      {
+        "type": "detail_title",
+        "title": "상담자 후기",
+        "count": "1,324건",
+        "link": "ptt://hospital/hair_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "샤워앤독",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2",
+        "title": "슈슈펫살롱원",
+        "thumb": "https://triplepiece.com/dummy/img/1.png",
+        "feature": [
+          "parking",
+          "24hour",
+          "cctv",
+          "emergency"
+        ],
+        "tags": [
+          "#강아지전문",
+          "#고양이전문",
+          "#노령견/묘"
+        ],
+        "gps": {
+          "latitude": 23.23903,
+          "longitude": 50.45781
+        },
+        "rating": 4.9,
+        "save": 1234,
+        "review": 323
+      },
+      {
+        "type": "detail_title",
+        "title": "의료진소개",
+        "count": "",
+        "link": "ptt://hospital/hair_recommand"
+      },
+      {
+        "type": "detail_doctor",
+        "title": "장민석 대표원장",
+        "year": "15년차",
+        "subtitle": "건국대학교 수의과대학 외과학 전공 석사",
+        "desc": "한국동물병원협회 KAHA 통합 Congress\nOnstyle TV ‘펫토리얼리스트’ 자문수의사",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
+      },
+      {
+        "type": "detail_doctor",
+        "title": "장민석 대표원장",
+        "year": "15년차",
+        "subtitle": "건국대학교 수의과대학 외과학 전공 석사",
+        "desc": "한국동물병원협회 KAHA 통합 Congress\nOnstyle TV ‘펫토리얼리스트’ 자문수의사",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
+      },
+      {
+        "type": "detail_doctor",
+        "title": "장민석 대표원장",
+        "year": "15년차",
+        "subtitle": "건국대학교 수의과대학 외과학 전공 석사",
+        "desc": "한국동물병원협회 KAHA 통합 Congress\nOnstyle TV ‘펫토리얼리스트’ 자문수의사",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
+      },
+      {
+        "type": "detail_doctor",
+        "title": "장민석 대표원장",
+        "year": "15년차",
+        "subtitle": "건국대학교 수의과대학 외과학 전공 석사",
+        "desc": "한국동물병원협회 KAHA 통합 Congress\nOnstyle TV ‘펫토리얼리스트’ 자문수의사",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
+      },
+      {
+        "type": "detail_title",
+        "title": "병원소개",
+        "link": ""
+      },
+      {
+        "type": "detail_desc",
+        "title": "안녕하세요. 역삼동물병원 입니다.\n저희 병원은 반려동물을 사랑하는 가족적인 분위기의 병원입니다.\n2010년에 처음 개원한 저희 역삼동물병원이 역삼동 66-218번지로 확장이전을 하였습니다. 5년여간 많은 보호자분들이 보내주셨던 믿음과 신뢰에 깊은 감사 드립니다.\n\n- 전문 의료진과 첨단 수술시설 및 장비 도입으로 슬개골탈구 수술등을 포함한 고난이도 외과 수술, 안과 진료\n\n- 최신 초음파 및 혈구검사, 혈청장비를 도입하여 심장, 내분비, 노령견/묘 관리가 가능한 내과 진료\n\n실력과 지식을 바탕으로 정직하고 책임감있는 의료 서비스를 제공해 드리겠습니다.\n\n또한 미용/용품/분양 모두 가능한 All in one 서비스로 보호자분들의 입장에서 최대한 편의를 제공할 수 있도록 최선을 다하겠습니다.\n\n역삼 동물병원 SNS 안내\n\n카톡아이디 : 역삼동물병원 (진료 상담은 카카오톡을 이용해주세요)\n병원 블로그 : http://blog.naver.com/yeok_sam\n인스타그램 : http://instagram.com/yeok_sam\n\n운영시간 : 연중 무휴\n진료 : 10:30 - 24:00\n미용 : 각종 대회 대상, 금상 등 수상경력, 애견미용 강사출신의 미용실장님 (예약제 : 11:30-19:00)\n용품 : 오프라인 마켓 (로비에 전 품목 디스플레이, 철저한 유통기한 및 재고관리)"
+      }
+    ]
+  }
+}
