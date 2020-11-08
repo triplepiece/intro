@@ -37,76 +37,28 @@
         "link": "ptt://hospital/hair_recommand"
       },
       {
-        "type": "hospital_cell",
-        "link": "ptt://detail/hospital/2",
-        "title": "샤워앤독",
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/2",
+        "title": "수의사 선생님께서 설명도 꼼꼼히 해주시고 수술도 성공적이고 회복도 빨랐습니다. 입원했을 때",
         "thumb": "https://triplepiece.com/dummy/img/1.png",
-        "feature": [
-          "parking",
-          "24hour",
-          "cctv",
-          "emergency"
-        ],
-        "tags": [
-          "#강아지전문",
-          "#고양이전문",
-          "#노령견/묘"
-        ],
-        "gps": {
-          "latitude": 23.23903,
-          "longitude": 50.45781
-        },
-        "rating": 4.9,
-        "save": 1234,
-        "review": 323
+        "user": "hy380sdf",
+        "receipt_certified": true
       },
       {
-        "type": "hospital_cell",
-        "link": "ptt://detail/hospital/2",
-        "title": "슈슈펫살롱원",
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/3",
+        "title": "여러분 다들 우리 개좀 보세요~~~~ㅠㅠ 미용사님 최고ㅠㅠㅠㅠㅠㅠㅠㅠ",
         "thumb": "https://triplepiece.com/dummy/img/1.png",
-        "feature": [
-          "parking",
-          "24hour",
-          "cctv",
-          "emergency"
-        ],
-        "tags": [
-          "#강아지전문",
-          "#고양이전문",
-          "#노령견/묘"
-        ],
-        "gps": {
-          "latitude": 23.23903,
-          "longitude": 50.45781
-        },
-        "rating": 4.9,
-        "save": 1234,
-        "review": 323
+        "user": "hagyousdfh",
+        "receipt_certified": true
       },
       {
-        "type": "hospital_cell",
-        "link": "ptt://detail/hospital/2",
-        "title": "슈슈펫살롱원",
+        "type": "review_default_cell",
+        "link": "ptt://review/hospital/4",
+        "title": "고양이 전문 수의사 선생님이 계셔서 믿음이 가요. 아이 상태에 대해 그림까지 그려가며 차근차근 설명…",
         "thumb": "https://triplepiece.com/dummy/img/1.png",
-        "feature": [
-          "parking",
-          "24hour",
-          "cctv",
-          "emergency"
-        ],
-        "tags": [
-          "#강아지전문",
-          "#고양이전문",
-          "#노령견/묘"
-        ],
-        "gps": {
-          "latitude": 23.23903,
-          "longitude": 50.45781
-        },
-        "rating": 4.9,
-        "save": 1234,
-        "review": 323
+        "user": "sdfl245",
+        "receipt_certified": true
       },
       {
         "type": "detail_title",
