@@ -4,26 +4,18 @@
     "phone": "01012341234",
     "header": [
       {
-        "title": "",
-        "subtitle": "",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/1.png"
       },
       {
-        "title": "",
-        "subtitle": "",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/2.png"
       },
       {
-        "title": "",
-        "subtitle": "",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/3.png"
       },
       {
-        "title": "",
-        "subtitle": "",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/4.png"
       }
