@@ -1,7 +1,10 @@
 {
   "code": 0,
   "result": {
-    "phone": "01012341234",
+    "other_info": {
+      "title": "역삼동물병원",
+      "phone": "01012341234"
+    },
     "header": [
       {
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
