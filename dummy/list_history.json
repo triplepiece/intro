@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "history_title_cell",
+      "day_left": "7"
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "party",
+      "title": "에블랑",
+      "subtitle": "여 · 29 · 강남구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "daily",
+      "title": "lotus22",
+      "subtitle": "여 · 24 · 송파구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "daily",
+      "title": "lotus22",
+      "subtitle": "여 · 24 · 송파구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "daily",
+      "title": "lotus22",
+      "subtitle": "여 · 24 · 송파구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "daily",
+      "title": "lotus22",
+      "subtitle": "여 · 24 · 송파구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "daily",
+      "title": "lotus22",
+      "subtitle": "여 · 24 · 송파구",
+      "link": ""
+    },
+    {
+      "type": "history_title_cell",
+      "day_left": "6"
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "party",
+      "title": "에블랑",
+      "subtitle": "여 · 29 · 강남구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "party",
+      "title": "에블랑",
+      "subtitle": "여 · 29 · 강남구",
+      "link": ""
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "party",
+      "title": "에블랑",
+      "subtitle": "여 · 29 · 강남구",
+      "link": ""
+    },
+    {
+      "type": "history_title_cell",
+      "day_left": "5"
+    },
+    {
+      "type": "history_cell",
+      "sub_type": "party",
+      "title": "에블랑",
+      "subtitle": "여 · 29 · 강남구",
+      "link": ""
+    }
+  ]
+}
