@@ -3,24 +3,28 @@
   "result": {
     "header": [
       {
+        "type": "header_slide",
         "title": "NOTICE",
         "subtitle": "수의사가 알려주는 강아지 행동 교정1",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/1.png"
       },
       {
+        "type": "header_slide",
         "title": "Q&A",
         "subtitle": "수의사가 알려주는 강아지 행동 교정2",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/2.png"
       },
       {
+        "type": "header_slide",
         "title": "NOTICE",
         "subtitle": "수의사가 알려주는 강아지 행동 교정3",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
         "thumb": "https://triplepiece.com/dummy/img/3.png"
       },
       {
+        "type": "header_slide",
         "title": "TEST",
         "subtitle": "수의사가 알려주는 강아지 행동 교정4",
         "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
