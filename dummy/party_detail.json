@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "result": {
+    "header": [
+      {
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/user_1.png"
+      },
+      {
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/user_2.png"
+      },
+      {
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/user_3.png"
+      },
+      {
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/user_4.png"
+      }
+    ],
+    "list": [
+      {
+        "type": "party_info_cell"
+      },
+      {
+        "type": "party_member_title_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      },
+      {
+        "type": "party_member_cell"
+      }
+    ]
+  }
+}
