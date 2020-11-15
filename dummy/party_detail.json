@@ -2,6 +2,7 @@
   "code": 0,
   "result": {
     "header": {
+      "type": "img",
       "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
       "thumb": "https://triplepiece.com/dummy/img/user_1.png"
     },
