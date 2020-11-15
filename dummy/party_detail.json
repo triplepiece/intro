@@ -68,10 +68,6 @@
       {
         "type": "party_member_cell",
         "id": 13
-      },
-      {
-        "type": "party_member_cell",
-        "id": 14
       }
     ]
   }
