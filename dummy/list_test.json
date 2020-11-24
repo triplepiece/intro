@@ -2,32 +2,34 @@
   "code": 0,
   "result": [
     {
-      "lid": 0,
-      "title": "user0"
+      "key": 0,
+      "name": "김성경",
+      "age": 32,
+      "address": "구로구 독산동",
+      "tags": [
+        "개발",
+        "서버"
+      ]
     },
     {
-      "lid": 1,
-      "title": "user1"
+      "key": 1,
+      "name": "이장연",
+      "age": 32,
+      "address": "우만2동",
+      "tags": [
+        "개발",
+        "모바일"
+      ]
     },
     {
-      "lid": 2,
-      "title": "user2"
-    },
-    {
-      "lid": 3,
-      "title": "user3"
-    },
-    {
-      "lid": 4,
-      "title": "user4"
-    },
-    {
-      "lid": 5,
-      "title": "user5"
-    },
-    {
-      "lid": 6,
-      "title": "user6"
+      "key": 2,
+      "name": "이미영",
+      "age": 32,
+      "address": "비공개",
+      "tags": [
+        "안드로이드",
+        "기타"
+      ]
     }
   ]
 }
