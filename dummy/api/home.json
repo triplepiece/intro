@@ -83,19 +83,19 @@
       },
       {
         "type": "home_title",
-        "link": "ptime://communitys"
+        "link": "ptime://partys"
       },
       {
         "type": "community_default_cell",
-        "link": "ptime://community/2"
+        "link": "ptime://party/2"
       },
       {
         "type": "community_default_cell",
-        "link": "ptime://community/3"
+        "link": "ptime://party/3"
       },
       {
         "type": "community_default_cell",
-        "link": "ptt://community/4"
+        "link": "ptt://party/4"
       },
       {
         "type": "home_footer_cell"
