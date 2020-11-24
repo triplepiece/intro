@@ -1,0 +1,33 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_hospital_cell",
+      "link": "ptime://review/4"
+    }
+  ]
+}
