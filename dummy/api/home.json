@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "result": {
+    "header": [
+      {
+        "type": "header_slide",
+        "title": "NOTICE",
+        "subtitle": "수의사가 알려주는 강아지 행동 교정1",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/1.png"
+      },
+      {
+        "type": "header_slide",
+        "title": "Q&A",
+        "subtitle": "수의사가 알려주는 강아지 행동 교정2",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/2.png"
+      },
+      {
+        "type": "header_slide",
+        "title": "NOTICE",
+        "subtitle": "수의사가 알려주는 강아지 행동 교정3",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/3.png"
+      },
+      {
+        "type": "header_slide",
+        "title": "TEST",
+        "subtitle": "수의사가 알려주는 강아지 행동 교정4",
+        "link": "ptt://web/{webview.by.link.url.utf8.encoding}",
+        "thumb": "https://triplepiece.com/dummy/img/4.png"
+      }
+    ],
+    "list": [
+      {
+        "type": "home_title",
+        "link": "ptt://hospital/hospital_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/1"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/2"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/hospital/3"
+      },
+      {
+        "type": "home_title",
+        "title": "요즘 뜨는 미용실",
+        "link": "ptt://hospital/hair_recommand"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/shop/2"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/shop/3"
+      },
+      {
+        "type": "hospital_cell",
+        "link": "ptt://detail/shop/4"
+      },
+      {
+        "type": "home_title",
+        "link": "ptt://review/recommend"
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/2"
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/3"
+      },
+      {
+        "type": "review_default_cell",
+        "link": "ptt://review/4"
+      },
+      {
+        "type": "home_title",
+        "link": "ptt://community/all"
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/2"
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/2"
+      },
+      {
+        "type": "community_default_cell",
+        "link": "ptt://community/2"
+      },
+      {
+        "type": "home_footer_cell"
+      }
+    ]
+  }
+}
