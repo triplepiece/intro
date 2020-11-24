@@ -1,0 +1,33 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    },
+    {
+      "type": "review_shop_cell",
+      "link": "ptime://review/4"
+    }
+  ]
+}
