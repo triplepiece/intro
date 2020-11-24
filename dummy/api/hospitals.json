@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    },
+    {
+      "type": "hospital_cell",
+      "link": "ptime://place/1"
+    }
+  ]
+}
