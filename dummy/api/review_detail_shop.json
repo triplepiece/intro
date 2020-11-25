@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "review_shop_cell"
+    },
+    {
+      "type": "comment_title_cell",
+      "count": 5
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    },
+    {
+      "type": "comment_cell"
+    }
+  ]
+}
