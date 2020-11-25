@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    },
+    {
+      "type": "find_place_cell"
+    }
+  ]
+}
