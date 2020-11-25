@@ -1,0 +1,54 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "history_title_cell"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_title_cell"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    },
+    {
+      "type": "history_title_cell"
+    },
+    {
+      "type": "history_cell",
+      "link": "ptime://user/0"
+    }
+  ]
+}
