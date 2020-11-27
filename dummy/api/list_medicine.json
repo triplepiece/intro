@@ -1,0 +1,43 @@
+{
+  "code": 0,
+  "result": [
+    {
+      "type": "medicine_cell",
+      "medicine": [
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"}]
+    },
+    {
+      "type": "medicine_cell",
+      "medicine": [
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"}]
+    },
+    {
+      "type": "medicine_cell",
+      "medicine": [
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"}]
+    },
+    {
+      "type": "medicine_cell",
+      "medicine": [
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"}]
+    },
+    {
+      "type": "medicine_cell",
+      "medicine": [
+        {"type": "medicine"},
+        {"type": "medicine"},
+        {"type": "medicine"}]
+    }
+  ]
+}
