@@ -16,16 +16,14 @@
     <button id="button1">ButtonA</button>
 
     <script type="text/javascript">
-
-      document.getElementById('button1').onclick = function () {
+      document.getElementById("button1").onclick = function () {
         var temp = '{"key1":"value1"}';
         webkit.messageHandlers.callbackHandler.postMessage(temp);
       };
 
+      /*
       var IMP = window.IMP; // 생략가능
       IMP.init("imp76125948"); // 'imp00000000' 대신 부여받은 "가맹점 식별코드"를 사용
-
-      /* 중략 */
       IMP.certification(
         {
           merchant_uid: "merchant_" + new Date().getTime(),
@@ -51,6 +49,7 @@
           }
         }
       );
+      */
     </script>
   </body>
 </html>
