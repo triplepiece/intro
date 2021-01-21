@@ -14,7 +14,7 @@
         IMP.certification({
             merchant_uid: 'merchant_' + new Date().getTime()
         }, function (rsp) {
-            Android.callbackFunc(rsp);
+            Android.callbackFunc(JSON.stringify(rsp));
         });
     </script>
 </body>
