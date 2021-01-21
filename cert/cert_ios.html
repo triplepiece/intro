@@ -5,19 +5,21 @@
       type="text/javascript"
       src="https://code.jquery.com/jquery-1.12.4.min.js"
     ></script>
-
   </head>
 
   <body>
-    <!-- 아임포트 자바스크립트는 jQuery 기반으로 개발되었습니다 -->
-    <button id="button1">ButtonA</button>
+    <button id="button1">button1</button>
+    <button id="button2">button2</button>
 
     <script type="text/javascript">
       document.getElementById("button1").onclick = function () {
         var temp = '{"key1":"value1"}';
         webkit.messageHandlers.callbackHandler.postMessage(temp);
       };
-
+      document.getElementById("button2").onclick = function () {
+        var temp = '{"key2":"value2"}';
+        webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(rsp));
+      };
     </script>
   </body>
 </html>
