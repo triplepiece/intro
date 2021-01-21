@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.iamport.kr/js/iamport.payment-1.1.7.js"></script>
+</head>
+
+<body>
+    <!-- 아임포트 자바스크립트는 jQuery 기반으로 개발되었습니다 -->
+
+    <script type="text/javascript">
+
+
+        var IMP = window.IMP; // 생략가능
+        IMP.init('imp76125948'); // 'imp00000000' 대신 부여받은 "가맹점 식별코드"를 사용
+
+        /* 중략 */
+        IMP.certification({
+            merchant_uid: 'merchant_' + new Date().getTime()
+        }, function (rsp) {
+            console.log(JSON.stringify(rsp));
+            if (rsp.success) {
+                // 인증성공
+                $.ajax({
+                    url: "https://www.myservice.com/certifications", // 현재 서비스의 웹서버로 인증된 사용자 정보 요청
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    data: { imp_uid: rsp.imp_uid }
+                }).done(function (response) {
+                    // 이후 Business Logic 처리
+                    console.log(JSON.stringify(response));
+                });
+            } else {
+                // 인증취소 또는 인증실패
+                var msg = '인증에 실패하였습니다.';
+                msg += '에러내용 : ' + rsp.error_msg;
+                alert(msg);
+            }
+        });
+    </script>
+</body>
