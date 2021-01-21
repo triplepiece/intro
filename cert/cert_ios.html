@@ -15,8 +15,9 @@
     <!-- 아임포트 자바스크립트는 jQuery 기반으로 개발되었습니다 -->
 
     <script type="text/javascript">
-    var temp = '{"key1":"value1"}';
-      webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(temp));
+
+      var temp = '{"key1":"value1"}';
+      webkit.messageHandlers.callbackHandler.postMessage(temp);
 
       var IMP = window.IMP; // 생략가능
       IMP.init("imp76125948"); // 'imp00000000' 대신 부여받은 "가맹점 식별코드"를 사용
