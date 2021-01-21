@@ -1,25 +1,20 @@
+
 <!DOCTYPE html>
 <html>
-  <head>
-    <script
-      type="text/javascript"
-      src="https://code.jquery.com/jquery-1.12.4.min.js"
-    ></script>
-  </head>
 
-  <body>
-    <button id="button1">button1</button>
-    <button id="button2">button2</button>
+<head>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.iamport.kr/js/iamport.payment-1.1.7.js"></script>
+</head>
 
+<body>
     <script type="text/javascript">
-      document.getElementById("button1").onclick = function () {
-        var temp1 = '{"key1":"value1"}';
-        Android.showToast(temp1);
-      };
-      document.getElementById("button2").onclick = function () {
-        var temp2 = '{"key2":"value2"}';
-        Android.showToast(JSON.stringify(temp2));
-      };
+        var IMP = window.IMP; 
+        IMP.init('imp76125948'); 
+        IMP.certification({
+            merchant_uid: 'merchant_' + new Date().getTime()
+        }, function (rsp) {
+            Android.callbackFunc(rsp);
+        });
     </script>
-  </body>
-</html>
+</body>
