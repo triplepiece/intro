@@ -13,12 +13,12 @@
 
     <script type="text/javascript">
       document.getElementById("button1").onclick = function () {
-        var temp = '{"key1":"value1"}';
-        webkit.messageHandlers.callbackHandler.postMessage(temp);
+        var temp1 = '{"key1":"value1"}';
+        webkit.messageHandlers.callbackHandler.postMessage(temp1);
       };
       document.getElementById("button2").onclick = function () {
-        var temp = '{"key2":"value2"}';
-        webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(rsp));
+        var temp2 = '{"key2":"value2"}';
+        webkit.messageHandlers.callbackHandler.postMessage(JSON.stringify(temp2));
       };
     </script>
   </body>
